@@ -1,0 +1,10 @@
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\bin\Debug\netcoreapp2.2\JetBrain_CanBeNull.deps.json
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\bin\Debug\netcoreapp2.2\JetBrain_CanBeNull.runtimeconfig.json
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\bin\Debug\netcoreapp2.2\JetBrain_CanBeNull.runtimeconfig.dev.json
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\bin\Debug\netcoreapp2.2\JetBrain_CanBeNull.dll
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\obj\Debug\netcoreapp2.2\JetBrain_CanBeNull.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\obj\Debug\netcoreapp2.2\JetBrain_CanBeNull.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\obj\Debug\netcoreapp2.2\JetBrain_CanBeNull.AssemblyInfo.cs
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\bin\Debug\netcoreapp2.2\JetBrain_CanBeNull.pdb
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\obj\Debug\netcoreapp2.2\JetBrain_CanBeNull.dll
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\obj\Debug\netcoreapp2.2\JetBrain_CanBeNull.pdb

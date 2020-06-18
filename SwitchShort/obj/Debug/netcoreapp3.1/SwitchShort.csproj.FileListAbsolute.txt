@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\Helper\SwitchShort\bin\Debug\netcoreapp3.1\SwitchShort.exe
+C:\Users\Code\source\repos\Helper\SwitchShort\bin\Debug\netcoreapp3.1\SwitchShort.deps.json
+C:\Users\Code\source\repos\Helper\SwitchShort\bin\Debug\netcoreapp3.1\SwitchShort.runtimeconfig.json
+C:\Users\Code\source\repos\Helper\SwitchShort\bin\Debug\netcoreapp3.1\SwitchShort.runtimeconfig.dev.json
+C:\Users\Code\source\repos\Helper\SwitchShort\bin\Debug\netcoreapp3.1\SwitchShort.dll
+C:\Users\Code\source\repos\Helper\SwitchShort\bin\Debug\netcoreapp3.1\SwitchShort.pdb
+C:\Users\Code\source\repos\Helper\SwitchShort\obj\Debug\netcoreapp3.1\SwitchShort.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Helper\SwitchShort\obj\Debug\netcoreapp3.1\SwitchShort.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\Helper\SwitchShort\obj\Debug\netcoreapp3.1\SwitchShort.AssemblyInfo.cs
+C:\Users\Code\source\repos\Helper\SwitchShort\obj\Debug\netcoreapp3.1\SwitchShort.dll
+C:\Users\Code\source\repos\Helper\SwitchShort\obj\Debug\netcoreapp3.1\SwitchShort.pdb

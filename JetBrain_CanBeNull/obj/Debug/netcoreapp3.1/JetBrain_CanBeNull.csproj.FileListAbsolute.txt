@@ -1,0 +1,4 @@
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\bin\Debug\netcoreapp3.1\JetBrain_CanBeNull.exe
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\obj\Debug\netcoreapp3.1\JetBrain_CanBeNull.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\obj\Debug\netcoreapp3.1\JetBrain_CanBeNull.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\Helper\JetBrain_CanBeNull\obj\Debug\netcoreapp3.1\JetBrain_CanBeNull.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\Helper\Switch_Based_Validations\bin\Debug\netcoreapp3.1\Switch_Based_Validations.exe
+C:\Users\Code\source\repos\Helper\Switch_Based_Validations\bin\Debug\netcoreapp3.1\Switch_Based_Validations.deps.json
+C:\Users\Code\source\repos\Helper\Switch_Based_Validations\bin\Debug\netcoreapp3.1\Switch_Based_Validations.runtimeconfig.json
+C:\Users\Code\source\repos\Helper\Switch_Based_Validations\bin\Debug\netcoreapp3.1\Switch_Based_Validations.runtimeconfig.dev.json
+C:\Users\Code\source\repos\Helper\Switch_Based_Validations\bin\Debug\netcoreapp3.1\Switch_Based_Validations.dll
+C:\Users\Code\source\repos\Helper\Switch_Based_Validations\bin\Debug\netcoreapp3.1\Switch_Based_Validations.pdb
+C:\Users\Code\source\repos\Helper\Switch_Based_Validations\obj\Debug\netcoreapp3.1\Switch_Based_Validations.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Helper\Switch_Based_Validations\obj\Debug\netcoreapp3.1\Switch_Based_Validations.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\Helper\Switch_Based_Validations\obj\Debug\netcoreapp3.1\Switch_Based_Validations.AssemblyInfo.cs
+C:\Users\Code\source\repos\Helper\Switch_Based_Validations\obj\Debug\netcoreapp3.1\Switch_Based_Validations.dll
+C:\Users\Code\source\repos\Helper\Switch_Based_Validations\obj\Debug\netcoreapp3.1\Switch_Based_Validations.pdb
